@@ -1,2 +1,1 @@
-# REEP
-REEP - ReCtrl Evolution and Enhancement Process
+# REEP - ReCtrl Evolution and Enhancement Process
